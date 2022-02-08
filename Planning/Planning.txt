@@ -1,0 +1,7 @@
+Week 1: Oplevering gekozen paper
+	Repository + Folder structuur aangemaakt
+Week 2: Planning
+	Te implementeren code
+	Experimenten
+	Data
+Week 3: Experiment code schrijven gebaseerd op data
