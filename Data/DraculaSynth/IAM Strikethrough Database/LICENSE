@@ -1,0 +1,9 @@
+This work is a derivative work of the IAM database, originally published by U.Marti and H.Bunke. It may be used for non-commercial research purposes only. 
+
+If you use this database, please cite: 
+
+For the underlying IAM database: 
+Marti, U-V., and Horst Bunke. "The IAM-database: an English sentence database for offline handwriting recognition." International Journal on Document Analysis and Recognition 5.1 (2002): 39-46.
+
+as well as the following for this derivative work: 
+Heil, Raphaela, and Vats, Ekta, and Anders Hast. "Strikethrough Removal From Handwritten Words Using CycleGANs" 2021 International Conference on Document Analysis and Recognition (ICDAR). 
